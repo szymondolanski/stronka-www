@@ -1,0 +1,64 @@
+*{
+    font-family: Tahoma;
+    margin: 0;
+}
+.banner{
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+.glowny{
+    background-color: seashell;
+    height: 500px;
+    overflow: auto;
+}
+.footerek{
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height: 160px;
+}
+.op{
+    display: flex;
+    background-color: white;
+    color:  DimGray;
+    width: 60%;
+    height: 220px;
+    margin: 40px auto 40px auto;
+    box-shadow: 5px 5px 10px 5px dimgray;
+   
+}
+img{
+    margin: 10px;
+    border-radius: 10px ;
+    float: right;
+}
+h1{
+text-align: center;
+}
+h2{
+    text-align: center;
+}
+.op p{
+    font-style: italic;
+    padding: 10px;
+    font-size: 150%;
+}
+h4{
+    text-align: right;
+    margin-right: 40px;
+    font-size: 150%;
+    font-style: italic;
+}
+.footerekk a{
+    color: white;
+    
+}
+.footerek{
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+   
+}
